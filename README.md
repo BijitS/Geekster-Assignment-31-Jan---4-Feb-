@@ -3,10 +3,15 @@
 Java concept 4 includes:-
 
 1.Write a program to print the product of the decimal and int numbers ex: 8.2 and 6
+
 2.Print the ASCII value of any character user proides
+
 3.Write a program to add 3 to the ASCII value of the any character user proides  and print the equivalent character.
+
 4.Write a Java program to convert temperature from Fahrenheit to Celsius degree.
+
 5.Write a Java program that reads a number in inches, converts it to meters.
+
 6.Write a Java program to convert minutes into a number of years and days.
 7.Take String input as Name of the city and convert it to reverse string and show on the console.
 8.Check if a string is pallindrome or not. eg. input : ABCBA
