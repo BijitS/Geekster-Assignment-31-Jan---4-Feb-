@@ -26,3 +26,28 @@ Java practice 3 includes :-
 2.Apply do while loop to calculat factorial of a number such that, program asks  user, if he wants to continue, if yes, program should run again
 
 3.WAP to creat a fuction that check if no. is odd or even. call this function from main method.
+
+Java Concept 5 includes :-
+
+1. Evaluate below expression without running the code
+   int x = 9, y = 12;
+   int a = 2, b = 4, c = 6;
+   int exp = 4/3 * (x + 34) + 9 * (a + b * c) + (3 + y * (2 + a)) / (a + b*y);
+   Note: No program is required. Just give value of exp by calculating manually.
+
+
+2. WAP to check whether given number is lesser or 
+  greater than 10 if its lesser than check further if its lesser or greater than 
+  5 using ternary operator and Print greater or smaller accordingly.
+
+3. WAP to check whether given number is 10,20,30,40,50 or not any of these
+   using ternary operator.
+   
+4. write a program to print name of the month by passing number of the month 
+   using switch or if else 
+   
+5. write a program to print given character is vovel or Consonant using ternary operator.
+
+Java practice 4 includes :-
+
+1. Do all questions present in this link :- https://www.codesdope.com/practice/java-operators/      
